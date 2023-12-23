@@ -1,3 +1,3 @@
 # ChatGPT System Builder AI
 
-SaxonQiong's version of the informative course
+SaxonQiong's version of the informative course by Andrew Ng and
