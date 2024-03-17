@@ -5,4 +5,4 @@ SaxonQiong's version of the informative course by Andrew Ng and Isa Fulford, ['B
 The repository follows on-screen instructions to recreate their practical Jupyter notebooks and adapts the code to run against Azure OpenAI service. The Azure OpenAI service has a slightly different syntax compared to the original OpenAI endpoints. The list of notebooks includes:
 
 1. Language Models, the Chat Format and Tokens;
-2
+2. Classificati
