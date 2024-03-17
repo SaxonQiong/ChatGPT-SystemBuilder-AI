@@ -7,4 +7,4 @@ The repository follows on-screen instructions to recreate their practical Jupyte
 1. Language Models, the Chat Format and Tokens;
 2. Classification;
 3. Moderation;
-4. Chain of Th
+4. Chain of Thought
