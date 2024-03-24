@@ -9,4 +9,5 @@ The repository follows on-screen instructions to recreate their practical Jupyte
 3. Moderation;
 4. Chain of Thoughts;
 5. Chaining Prompts;
-6. Check Ou
+6. Check Outputs;
+7.
