@@ -10,4 +10,4 @@ The repository follows on-screen instructions to recreate their practical Jupyte
 4. Chain of Thoughts;
 5. Chaining Prompts;
 6. Check Outputs;
-7.
+7. Build an End-
