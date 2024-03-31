@@ -12,4 +12,4 @@ The repository follows on-screen instructions to recreate their practical Jupyte
 6. Check Outputs;
 7. Build an End-to-End System;
 8. Evaluation - Part 1;
-9. E
+9. Evaluation -
